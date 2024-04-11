@@ -1,11 +1,7 @@
-import NxWelcome from './nx-welcome';
+import { Interface } from '@kuchengine/interface';
 
 export function App() {
-  return (
-    <div>
-      <NxWelcome title="kuchengine" />
-    </div>
-  );
+  return <Interface />;
 }
 
 export default App;
