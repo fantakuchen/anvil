@@ -12,6 +12,13 @@
     <br />
     <br />
 </p>
+
+### Built With
+
+![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 </div>
 
 ## About Anvil
@@ -20,13 +27,7 @@ This boilerplate serves as the foundational setup for a robust and modular game 
 
 This initial setup is intended to provide developers with a well-organized framework, encouraging exploration and expansion within the game development ecosystem. As you integrate additional features and build out your game mechanics, this platform will support your creative and technical requirements through its adaptable and maintainable architecture.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
-
-![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
